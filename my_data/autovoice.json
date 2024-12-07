@@ -1,4 +1,4 @@
-{
+r{
 ".menu":"https://github.com/SILENTLOVER40/SOBX-MD_DATABASE/raw/refs/heads/main/autovoice/PTT-20241110-WA0033.m4a",
 ".list":"https://github.com/SILENTLOVER40/SOBX-MD_DATABASE/raw/refs/heads/main/autovoice/PTT-20241110-WA0033.m4a",
 ".alive":"https://github.com/SILENTLOVER40/SOBX-MD_DATABASE/raw/refs/heads/main/autovoice/AUD-20241110-WA0009.m4a",
@@ -28,4 +28,5 @@
 "nice":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3",
 "bye":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3",
 "by":"https://github.com/sadiyamin/alexa-database/raw/refs/heads/main/Media/pakaya.mp3"
+"hi":"https://github.com/queenrashmi/queen/blob/main/AUD-20241208-WA0012.mp3"
 }
